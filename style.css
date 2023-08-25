@@ -1,0 +1,41 @@
+body {
+    margin: auto;
+    padding: auto;
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    overflow: hidden;
+    background-color: #1f2927;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+header h1 {
+    margin: auto;
+    font-size: 24px;
+    color: #f9faf8;
+    float: left;
+    text-align: center;
+    padding: 8px;
+}
+
+header a {
+    float: left;
+    font-size: 18px;
+    color: #ebe7eb;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+header a:hover {
+    background-color: #f9faf8;
+    color: #1f2927;
+}
+
+nav {
+    float: right;
+}
+  
